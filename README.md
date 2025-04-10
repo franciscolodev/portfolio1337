@@ -1,4 +1,4 @@
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.# my-portfolio
-Copyright (c) 2025 Rishikesh S
+Copyright - Rishikesh S
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
