@@ -16,8 +16,7 @@ export default function Footer() {
             className="text-sm text-muted-foreground text-center md:text-left"
             whileHover={{ scale: 1.01 }}
           >
-            &copy; {new Date().getFullYear()} {personalInfo.name}. All rights
-            reserved. ✨
+            &copy; {new Date().getFullYear()}. All rights reserved. ✨
           </motion.p>
           <motion.p
             className="text-sm text-muted-foreground mt-2 md:mt-0 text-center md:text-left"
