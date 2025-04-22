@@ -17,6 +17,15 @@ export const workExperience = [
     ],
   },
   {
+    company: "Nicolo's Barbershop",
+    location: "Río Cuarto, Córdoba, Argentina",
+    position: "Web Developer",
+    period: "Apr 2025 - Present",
+    achievements: [
+      "Rebuild the website using Astro.js and Tailwind CSS.",
+    ],
+  },
+  {
     company: "Professional profile",
     location: "Remote",
     position: "Web Developer",
@@ -29,7 +38,7 @@ export const workExperience = [
     company: "Nicolo's Barbershop",
     location: "Río Cuarto, Córdoba, Argentina",
     position: "Web Developer",
-    period: "Nov 2024 - Ene 2025",
+    period: "Nov 2024 - Jan 2025",
     achievements: [
       "Developed responsive frontend using HTML5, CSS3 and JavaScript",
       "Optimized JavaScript solutions to improve load times and data-fetching efficiency.",
@@ -39,7 +48,7 @@ export const workExperience = [
     company: "UNAGI-Shop",
     location: "Remote",
     position: "Web Developer",
-    period: "Mar 2024 - Abr 2024",
+    period: "Mar 2024 - Apr 2024",
     achievements: [
       "Website development for an online store specializing in graphic design and production in all its forms (screen printing, DTF, embroidery, and 3D printing).",
       "Using HTML5, CSS3 and JavaScript.",
@@ -60,8 +69,7 @@ export const projects = [
     title: "Nicolo's Barbershop",
     github: "https://portfoliofranciscolodev.vercel.app/",
     description: [
-      "Developed responsive frontend using HTML5, CSS3 and JavaScript",
-      "Optimized JavaScript solutions to improve load times and data-fetching efficiency.",
+      "Rebuild using Astro.js and Tailwind CSS",
     ],
   },
   {
