@@ -57,7 +57,7 @@ export default function ProjectsSection() {
                     whileTap={{ scale: 0.95 }}
                   >
                     <Github className="h-4 w-4 mr-2 group-hover/link:rotate-12 transition-transform duration-300" />
-                    View on GitHub 🔗
+                    View🔗
                   </motion.a>
                 </CardFooter>
               </GlassCard>
