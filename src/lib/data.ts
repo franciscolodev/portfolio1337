@@ -20,28 +20,19 @@ export const workExperience = [
     company: "Nicolo's Barbershop",
     location: "Río Cuarto, Córdoba, Argentina",
     position: "Web Developer",
-    period: "Apr 2025 - Present",
+    period: "May 2025 - Present",
     achievements: [
       "Rebuild the website using Astro.js and Tailwind CSS.",
+      "In process",
     ],
   },
   {
     company: "Professional profile",
     location: "Remote",
     position: "Web Developer",
-    period: "Feb 2025 - Present",
+    period: "Mar 2025 - May 2025",
     achievements: [
       "Web development for the professional profile of a medical propaganda agent using Astro.js and Tailwind CSS.",
-    ],
-  },
-  {
-    company: "Nicolo's Barbershop",
-    location: "Río Cuarto, Córdoba, Argentina",
-    position: "Web Developer",
-    period: "Nov 2024 - Jan 2025",
-    achievements: [
-      "Developed responsive frontend using HTML5, CSS3 and JavaScript",
-      "Optimized JavaScript solutions to improve load times and data-fetching efficiency.",
     ],
   },
   {
@@ -54,22 +45,31 @@ export const workExperience = [
       "Using HTML5, CSS3 and JavaScript.",
     ],
   },
+    {
+    company: "Fruta é Fruto",
+    location: "Remote",
+    position: "Web Developer",
+    period: "Oct 2023 - Nov 2023",
+    achievements: [
+      "Website development for an online store Fruta é Fruto",
+    ],
+  },
 ];
 
 export const projects = [
   {
-    title: "Professional profile",
-    github: "https://franciscolodev.com",
-    description: [
-      "In process",
-      "Web development for the professional profile of a medical propaganda agent using Astro.js and Tailwind CSS.",
-    ],
-  },
-  {
     title: "Nicolo's Barbershop",
-    github: "https://portfoliofranciscolodev.vercel.app/",
+    github: "https://franciscolodev.com/",
     description: [
       "Rebuild using Astro.js and Tailwind CSS",
+      "In process"
+    ],
+  },
+    {
+    title: "Professional profile",
+    github: "https://diegos.vercel.app/",
+    description: [
+      "Web development for the professional profile of a medical propaganda agent using Astro.js and Tailwind CSS.",
     ],
   },
   {
