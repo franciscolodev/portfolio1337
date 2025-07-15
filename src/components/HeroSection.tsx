@@ -122,7 +122,7 @@ export default function HeroSection() {
           <div className="bg-gradient-to-r from-purple-500/10 to-pink-500/10 backdrop-blur-sm backdrop-filter p-4 rounded-lg border border-purple-500/20 dark:border-purple-500/10 shadow-sm">
             <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
               <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
-              📌I enjoy being able to create and materialize ideas using HTML5, CSS3, JavaScript, Node.js, Astro.js + other frameworks and libraries. <br />
+              📌I enjoy being able to create and materialize ideas using TypeScript, Tailwind CSS, Node.js, Astro.js + others frameworks and libraries<br />
               📌I consider myself a responsible, detail-oriented, and agile learner with the ability to solve problems to accomplish whatever the client requires, from a functional and aesthetic perspective. <br />
               📌I deliver projects for small and medium-sized businesses. I seek opportunities to gain further experience in this field for my intellectual growth and to develop my technical knowledge. <br />
               ▶️I feel very comfortable working in a team, cooperating and supporting others in the best way possible to solve the objective and any problems that may arise, with great satisfaction in learning and sharing my knowledge. <br />

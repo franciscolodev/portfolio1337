@@ -1,9 +1,9 @@
 export const personalInfo = {
   name: "Francisco López",
-  email: "coder@franciscolodev.com",
+  email: "franciscolodev@gmail.com",
   github: "https://github.com/franciscolodev",
   linkedin: "https://www.linkedin.com/in/franciscolodev/",
-  location: "Río Cuarto, Córdoba, Argentina",
+  location: "Argentina",
 };
 
 export const workExperience = [
@@ -13,17 +13,26 @@ export const workExperience = [
     position: "Web Developer",
     period: "Oct 2023 - Present",
     achievements: [
-      "Freelancer Web development using HTML5, CSS3, JavaScript, Node.js, Astro.js + other frameworks and libraries.",
+      "Freelancer Web development using TypeScript, Tailwind CSS, Node.js, Astro.js + others frameworks and libraries.",
     ],
   },
-  {
+    {
     company: "Nicolo's Barbershop",
-    location: "Río Cuarto, Córdoba, Argentina",
+    location: "Río Cuarto, Cordoba, Argentina",
     position: "Web Developer",
     period: "May 2025 - Present",
     achievements: [
       "In process",
       "Rebuild the website using Astro.js and Tailwind CSS",
+    ],
+  },
+  {
+    company: "Idún Nature",
+    location: "Río Cuarto, Cordoba, Argentina",
+    position: "Web Developer",
+    period: "Jun 2025 - Jul 2025",
+    achievements: [
+      "Website for a cosmetics store that offers natural, sustainable, and toxic-free products. I realized the client's specific vision for their website. I made some modifications, but still kept the style and aesthetic they requested. Using TypeScript, Next.js, React.js, AoS.js, Tailwind CSS and SCSS",
     ],
   },
     {
@@ -67,6 +76,13 @@ export const projects = [
     ],
   },
     {
+    title: "Idún Nature",
+    github: "https://idun-nature.vercel.app/",
+    description: [
+      "Website for a cosmetics store that offers natural, sustainable, and toxic-free products. I realized the client's specific vision for their website. I made some modifications, but still kept the style and aesthetic they requested. Using TypeScript, Next.js, React.js, AoS.js, Tailwind CSS and SCSS",
+    ],
+  },
+    {
     title: "Professional profile",
     github: "https://diegos.vercel.app/",
     description: [
@@ -97,19 +113,29 @@ export const skills = {
     "Python",
   ],
   frontendDevelopment: [
+    "React.js",
+    "Tailwind CSS",
+    "Astro.js",
+    "Next.js",
     "HTML5",
     "CSS3",
-    "Astro.js",
-    "Tailwind CSS",
-    "React.js",
   ],
-  backendDevelopment: ["Node.js"],
+  backendDevelopment: [
+    "Node.js",
+    "MongoDB",
+    "REST APIs",
+  ],
   toolsAndServices: [
     "VSCode",
     "Git",
     "GitHub",
+    "Figma",
+    "npm",
+    "Bash",
+    "Docker",
     "Vercel",
     "Hostinger",
+    "Google Cloud",
   ],
 };
 
