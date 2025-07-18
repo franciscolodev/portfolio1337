@@ -16,16 +16,6 @@ export const workExperience = [
       "Freelancer Web development using TypeScript, Tailwind CSS, Node.js, Astro.js + others frameworks and libraries.",
     ],
   },
-    {
-    company: "Nicolo's Barbershop",
-    location: "Río Cuarto, Cordoba, Argentina",
-    position: "Web Developer",
-    period: "May 2025 - Present",
-    achievements: [
-      "In process",
-      "Rebuild the website using Astro.js and Tailwind CSS",
-    ],
-  },
   {
     company: "Idún Nature",
     location: "Río Cuarto, Cordoba, Argentina",
@@ -33,6 +23,15 @@ export const workExperience = [
     period: "Jun 2025 - Jul 2025",
     achievements: [
       "Website for a cosmetics store that offers natural, sustainable, and toxic-free products. I realized the client's specific vision for their website. I made some modifications, but still kept the style and aesthetic they requested. Using TypeScript, Next.js, React.js, AoS.js, Tailwind CSS and SCSS",
+    ],
+  },
+    {
+    company: "Nicolo's Barbershop",
+    location: "Río Cuarto, Córdoba, Argentina",
+    position: "Web Developer",
+    period: "May 2025 - Jun 2025",
+    achievements: [
+      "Simple website for a barbershop from my city. Some HTML, a lot of CSS and a pinch of JavaScript",
     ],
   },
     {
@@ -67,19 +66,18 @@ export const workExperience = [
 
 export const projects = [
 
-  {
-    title: "Nicolo's Barbershop",
-    github: "https://portfoliofranciscolodev.vercel.app/",
-    description: [
-      "In process",
-      "Rebuild the website using Astro.js and Tailwind CSS",
-    ],
-  },
     {
     title: "Idún Nature",
     github: "https://idun-nature.vercel.app/",
     description: [
       "Website for a cosmetics store that offers natural, sustainable, and toxic-free products. I realized the client's specific vision for their website. I made some modifications, but still kept the style and aesthetic they requested. Using TypeScript, Next.js, React.js, AoS.js, Tailwind CSS and SCSS",
+    ],
+  },
+    {
+    title: "Nicolo's Barbershop",
+    github: "https://nicolo-barbershop.vercel.app/",
+    description: [
+      "Simple website for a barbershop from my city. Some HTML, a lot of CSS and a pinch of JavaScript"
     ],
   },
     {
