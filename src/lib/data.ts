@@ -43,16 +43,6 @@ export const workExperience = [
       "Web development for the professional profile of a medical propaganda agent using Astro.js and Tailwind CSS.",
     ],
   },
-  {
-    company: "UNAGI-Shop",
-    location: "Remote",
-    position: "Web Developer",
-    period: "Mar 2024 - Apr 2024",
-    achievements: [
-      "Website development for an online store specializing in graphic design and production in all its forms (screen printing, DTF, embroidery, and 3D printing).",
-      "Using HTML5, CSS3 and JavaScript.",
-    ],
-  },
     {
     company: "Fruta é Fruto",
     location: "Remote",
