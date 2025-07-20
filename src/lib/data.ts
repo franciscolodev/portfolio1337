@@ -88,14 +88,6 @@ export const projects = [
     ],
   },
   {
-    title: "UNAGI-Shop",
-    github: "https://franciscolodev.github.io/UNAGI/productos.html",
-    description: [
-      "Website development for an online store specializing in graphic design and production in all its forms (screen printing, DTF, embroidery, and 3D printing).",
-      "Using HTML5, CSS3 and JavaScript.",
-    ],
-  },
-  {
     title: "Fruta é Fruto",
     github: "https://franciscolodev.github.io/Fruta-e-Fruto/",
     description: [
