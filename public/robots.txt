@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://franciscolodev.com/sitemap-index.xml
