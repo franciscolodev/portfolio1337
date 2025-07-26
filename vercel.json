@@ -5,7 +5,7 @@
     "headers": [
         {
         "key": "Content-Security-Policy",
-        "value": "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https:;"
+        "value": "default-src 'self'; script-src 'self' https://analytics.vercel.com 'sha256-…'; style-src 'self' 'unsafe-inline'; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https:"
         },
         {
         "key": "Referrer-Policy",
@@ -22,6 +22,10 @@
         {
         "key": "X-Frame-Options",
         "value": "SAMEORIGIN"
+        },
+        {
+        "key": "X-XSS-Protection",
+        "value": "1; mode=block"
         },
         {
         "key": "Cross-Origin-Resource-Policy",
