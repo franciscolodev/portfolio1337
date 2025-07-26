@@ -10,15 +10,6 @@ export default defineConfig({
   integrations: [react(), sitemap()],
   vite: {
     plugins: [tailwindcss()],
-    server: {
-      headers: {
-        'Content-Security-Policy': "default-src 'self'; img-src *; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline';",
-        'X-Frame-Options': 'DENY',
-        'X-Content-Type-Options': 'nosniff',
-        'Referrer-Policy': 'no-referrer-when-downgrade',
-        'Permissions-Policy': 'camera=(), microphone=(), geolocation=()',
-      }
-    }
   }
 });
 
