@@ -124,7 +124,7 @@ export default function HeroSection() {
               <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
               📌I enjoy being able to create and materialize ideas using TypeScript, Tailwind CSS, Node.js, Astro.js + others frameworks and libraries<br />
               📌I consider myself a responsible, detail-oriented, and agile learner with the ability to solve problems to accomplish whatever the client requires, from a functional and aesthetic perspective. <br />
-              📌I deliver projects for small and medium-sized businesses. I seek opportunities to gain further experience in this field for my intellectual growth and to develop my technical knowledge. <br />
+              📌I deliver projects for small and medium-sized businesses. I seek opportunities to gain more experience in this field to further my intellectual and technical development. <br />
               ▶️I feel very comfortable working in a team, cooperating and supporting others in the best way possible to solve the objective and any problems that may arise, with great satisfaction in learning and sharing my knowledge. <br />
               📌I consider learning to be a part of my daily life, and challenges help me develop further.
             </p>
