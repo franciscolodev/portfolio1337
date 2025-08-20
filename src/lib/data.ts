@@ -110,6 +110,7 @@ export const skills = {
     "Git",
     "GitHub",
     "Figma",
+    "pnpm",
     "npm",
     "Bash",
     "Docker",
