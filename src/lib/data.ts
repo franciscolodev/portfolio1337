@@ -4,6 +4,7 @@ export const personalInfo = {
   github: "https://github.com/franciscolodev",
   linkedin: "https://www.linkedin.com/in/franciscolodev/",
   location: "Argentina",
+  cv: "/francisco-lopez-cv.pdf",
 };
 
 export const workExperience = [

@@ -1,5 +1,5 @@
 import { personalInfo } from "@/lib/data";
-import { Mail, Github, MapPin, Linkedin } from "lucide-react";
+import { Mail, Github, MapPin, Linkedin, Download, } from "lucide-react";
 import { motion } from "framer-motion";
 import MotionWrapper from "./MotionWrapper";
 
@@ -97,6 +97,18 @@ export default function HeroSection() {
                 <Linkedin className="h-4 w-4 mr-2" />
                 🔗 LinkedIn
               </motion.a>
+
+            <motion.a
+              href={personalInfo.cv}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center text-sm text-muted-foreground hover:text-foreground transition-colors"
+              variants={childVariants}
+              whileHover={{ scale: 1.05, color: "#4b5563" }}
+            >
+              <Download className="h-4 w-4 mr-2" />
+              ⬇️ Download CV
+            </motion.a>
             </motion.div>
           </div>
 
