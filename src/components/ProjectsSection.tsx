@@ -18,7 +18,7 @@ export default function ProjectsSection() {
       <div className="container max-w-4xl mx-auto px-6 md:px-4">
         <MotionWrapper>
           <h2 className="text-2xl font-bold mb-8 text-center md:text-left">
-            🚀 Projects
+            🚀 Proyectos
           </h2>
         </MotionWrapper>
 
@@ -57,7 +57,7 @@ export default function ProjectsSection() {
                     whileTap={{ scale: 0.95 }}
                   >
                     <Github className="h-4 w-4 mr-2 group-hover/link:rotate-12 transition-transform duration-300" />
-                    View🔗
+                    Ver🔗
                   </motion.a>
                 </CardFooter>
               </GlassCard>
