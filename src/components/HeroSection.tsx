@@ -48,7 +48,7 @@ export default function HeroSection() {
               className="text-xl text-muted-foreground mb-6"
               variants={childVariants}
             >
-              Desarrollador👨‍💻
+              Desarrollador de Software👨‍💻
             </motion.p>
 
             <motion.div
@@ -134,11 +134,10 @@ export default function HeroSection() {
           <div className="bg-gradient-to-r from-purple-500/10 to-pink-500/10 backdrop-blur-sm backdrop-filter p-4 rounded-lg border border-purple-500/20 dark:border-purple-500/10 shadow-sm">
             <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
               <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
-              📌Disfruto creando y materializando ideas usando JavaScript, Tailwind CSS, Node.js, Astro.js y otros frameworks y bibliotecas. <br />
-              📌Me considero responsable, detallista y con una actitud de aprendizaje ágil, capaz de resolver problemas para lograr lo que el cliente requiera, tanto desde una perspectiva funcional como estética.<br />
-              📌Soy estudiante de la Tecnicatura Universitaria en Programación en la UTN. Realizo proyectos para pequeñas y medianas empresas, y también estoy abierto a oportunidades en distintas áreas del desarrollo y la programación, ya que me interesa seguir creciendo, explorando y aprendiendo en este campo.<br />
-              📌Me siento muy cómodo trabajando en equipo, cooperando y apoyando a los demás de la mejor manera posible para resolver el objetivo. Me interesa aportar a la comunidad tecnológica, compartir lo que sé y aprender de otros, porque creo que el crecimiento individual también se construye en lo colectivo.<br />
-              📌Considero que el aprendizaje forma parte de mi día a día, y los desafíos me motivan a seguir desarrollándome tanto a nivel técnico como humano.
+              📌Desarrollador de software especializado en desarrollo web con experiencia tanto en frontend como en backend. Me enfoco en crear soluciones web escalables, intuitivas y de alto rendimiento. Disfruto materializando ideas usando JavaScript, Tailwind CSS, Node.js, Astro.js y otros frameworks y bibliotecas, además de gestionar bases de datos y todo lo necesario para garantizar que todo funcione de manera óptima. <br />
+              📌Soy estudiante de la Tecnicatura Universitaria en Programación en la UTN. Realizo proyectos para pequeñas y medianas empresas, y estoy abierto a oportunidades en diversas áreas del desarrollo y la programación, ya que me interesa seguir creciendo, explorando y aprendiendo en este campo. <br />
+              📌Me siento muy cómodo trabajando en equipo, cooperando y apoyando a los demás de la mejor manera posible para resolver el objetivo. Quiero aportar a la comunidad tecnológica, compartir lo que sé y aprender de otros, porque creo que el crecimiento individual también se construye en lo colectivo. <br />
+              Considero que el aprendizaje forma parte de mi día a día, y los desafíos me motivan a seguir desarrollándome tanto a nivel técnico como humano.
             </p>
           </div>
         </MotionWrapper>

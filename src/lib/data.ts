@@ -14,7 +14,7 @@ export const workExperience = [
     position: "Desarrollador Web",
     period: "Oct 2023 - Presente",
     achievements: [
-      "Freelancer Web development usando TypeScript, Tailwind CSS, Node.js, Astro.js + otros frameworks y bibliotecas.",
+      "Desarrollador Web Freelance usando TypeScript, Tailwind CSS, Node.js, Astro.js + otros frameworks y bibliotecas.",
     ],
   },
   {
