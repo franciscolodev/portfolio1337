@@ -17,6 +17,15 @@ export const workExperience = [
       "Desarrollador Web Freelance usando TypeScript, Tailwind CSS, Node.js, Astro.js + otros frameworks y bibliotecas.",
     ],
   },
+    {
+    company: "CuartoSoft",
+    location: "Río Cuarto, Cordoba, Argentina",
+    position: "Desarrollador Web",
+    period: "Ago 2025 - Actualidad",
+    achievements: [
+      "Sitio web para una Agencia de Desarrollo de Software especializada en el desarrollo web moderno, creando soluciones digitales rápidas, escalables y adaptadas a cada cliente. Utilicé Astro, TypeScript, JavaScript, Tailwind CSS y MDX.",
+    ],
+  },
   {
     company: "Idún Nature",
     location: "Río Cuarto, Cordoba, Argentina",
@@ -57,6 +66,13 @@ export const workExperience = [
 
 export const projects = [
 
+    {
+    title: "CuartoSoft",
+    github: "https://cuartosoft.vercel.app/",
+    description: [
+      "Sitio web para una Agencia de Desarrollo de Software especializada en el desarrollo web moderno, creando soluciones digitales rápidas, escalables y adaptadas a cada cliente. Utilicé Astro, TypeScript, JavaScript, Tailwind CSS y MDX.",
+    ],
+  },
     {
     title: "Idún Nature",
     github: "https://idun-nature.vercel.app/",
